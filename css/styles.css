@@ -14,22 +14,22 @@ header {
 }
 
 header.home {
-  background: url("img/bg.jpg") no-repeat center center/cover;
-  height: 600px;
+  background: url("D:\praktika\img/bg (1).jpg") no-repeat center center/cover;
+  height: 100px;
   position: relative;
 }
 
 header.tomatoall {
   background: url("img/bgtomato.png") no-repeat center center/cover;
-  height: 400px;
-  padding-top: 100px;
+  height: 0px;
+  padding-top: 0px;
 }
 
 header.contactus {
-  background: url("img/bgconatct.jpg") no-repeat center center/cover;
-  margin-top: 60px;
-  height: 350px;
-  padding-top: 100px;
+  background: url("D:\praktika\img/bgconatct.jpg") no-repeat center center/cover;
+  margin-top: 50px;
+  height: 360px;
+  padding-top: 150px;
 }
 
 header h1 {
